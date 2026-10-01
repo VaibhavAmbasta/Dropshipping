@@ -4,6 +4,7 @@
 - `research/alternatives.md`: 16 alternative product categories scored, top picks, what to avoid, test plan.
 - `research/remote-business-ideas.md`: businesses run from India for UAE/Singapore customers.
 - `research/india-domestic-ideas.md`: India-domestic businesses with urgent, paid-for problems.
+- `research/plan-notice-desk.md`: 30-day plan for a GST/TDS notice-prevention tool for CA firms.
 - `site/index.html`: storefront prototype (static, no build). Open it in a browser.
 
 The storefront is a design prototype. Checkout is not connected. For real sales, port it to a Shopify theme
